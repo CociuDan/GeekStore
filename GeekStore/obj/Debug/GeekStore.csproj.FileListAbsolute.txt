@@ -1,0 +1,5 @@
+F:\Tekwill\GeekStore\GeekStore\bin\Debug\GeekStore.exe.config
+F:\Tekwill\GeekStore\GeekStore\bin\Debug\GeekStore.exe
+F:\Tekwill\GeekStore\GeekStore\bin\Debug\GeekStore.pdb
+F:\Tekwill\GeekStore\GeekStore\obj\Debug\GeekStore.exe
+F:\Tekwill\GeekStore\GeekStore\obj\Debug\GeekStore.pdb
